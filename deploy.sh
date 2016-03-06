@@ -22,5 +22,5 @@ fi
 # Deploy
 cd .deploy
 git add -A
-git commit -m "Resume updated: $(date -R)"
+git commit -m "Resume updated: $(date)"
 git push -u origin gh-pages
