@@ -1,85 +1,58 @@
-# 张海
+# 郑虎
 
-## Android 开发者
+## Web 开发者
 
-> [blog.zhanghai.me](http://blog.zhanghai.me)
-> [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
-> [dreaming.in.code.zh@gmail.com](mailto:dreaming.in.code.zh@gmail.com)
+> [blog.axurez.me](http://blog.axurez.me)
+> [github.com/Axure](https://github.com/Axure)
+> [freetiger18@gmail.com](mailto:freetiger18@gmail.com)
 
 ------
 
 ### 技术
 
-1. Java
+1. C++
 
-2. Android
+2. JavaScript/NodeJS
 
-3. C/C++
+3. Java/Spring
 
-4. GNU/Linux
+4. Git
 
-5. Shell
+5. Python
 
-6. Git
+6. Scala
 
 ------
 
 ### 教育
 
-**计算机科学与技术** 2013 ~ 2017
+**数学与应用数学** 2012 ~ 
     浙江大学
 
 ------
 
 ### 经历
 
-**浙江大学求是潮技术研发中心** *Android 开发者* 2013 ~ 2015
-    负责求是潮手机站（校内教务应用） V3 的 Android 应用设计及开发。
-
-**阿里巴巴集团** *无线开发事业部实习生* 2015.7 ~ 2015.9
-    参与终端架构组内部框架 Android 开发。
+**浙江大学求是潮技术研发中心** **Web 开发者** 2015 ~ 
+    负责求是潮网站项目的前端和后端开发。
 
 ------
 
 ### 项目
 
-**[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
-    符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
+**[求是潮主站](https://www.qsc.zju.edu.cn)** (NodeJS/VueJS)
+    学生组织「求是潮」的主站。包括前端和后端。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (1200+ Stars)
-    开源的 Material Design 豆瓣客户端。
+**[求是潮主站](https://yff.zjuqsc.com)** (NodeJS/AngularJS/Angular Material)
+    「求是潮」水朝夕部门举办的「青年电影节」的活动网站。
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (500+ Stars)
-    符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
+**[Math as You Will](https://chrome.google.com/webstore/detail/math-as-you-will/dhclcadjnhmoimnlkbboigmihbebfmdc)** (Chrome/AngularJS/Bootstrap)
+    利用 MathJax，在给定的域名上渲染 LaTeX 公式。
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (800+ Stars)
-    生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
+**[Hexium](https://github.com/Axure/Hexium-Swift)** (iOS/Swift)
+    一个 iOS 益智游戏。
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
-    打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
-
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (200+ Stars)
-    另一个 Android 图案解锁库。
-
-**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
-    实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
-
-**[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
-    显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
-
-**[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
-    极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
-
-**[KiScript](https://github.com/DreaminginCodeZH/kiscript)** (C)
-    参照 EcmaScript 5.0 标准的脚本解释器，目前完成了递归下降文法解析。
-
-**[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
-    基于 X11 的 Emacs 风格键盘宏实现，对组合键的变换有良好的处理。
-
-**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
-    另一个浙江大学无线网络和 VPN 脚本。
-
-**[ZJUWLANAutoLogin](https://github.com/DreaminginCodeZH/ZJUWLANAutoLogin)** (JavaScript)
-    简单的 Chrome 插件，当页面跳转至 ZJUWLAN 登录界面时自动模拟点击按钮。
+**[Game of Life Framework](https://github.com/Axure/Hexium-Swift)** (C++/ncurses/MVVM)
+    一个命令行（仿）图形库。
 
 ------

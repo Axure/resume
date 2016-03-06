@@ -1,85 +1,58 @@
-# Zhang Hai
+# Hu Zheng
 
-## Android Developer
+## Web Developer
 
-> [blog.zhanghai.me](http://blog.zhanghai.me)
-> [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
-> [dreaming.in.code.zh@gmail.com](mailto:dreaming.in.code.zh@gmail.com)
+> [blog.axurez.me](http://blog.axurez.me)
+> [github.com/Axure](https://github.com/Axure)
+> [freetiger18@gmail.com](mailto:freetiger18@gmail.com)
 
 ------
 
-### Technical
+### Techs
 
-1. Java
+1. C++
 
-2. Android
+2. JavaScript/NodeJS
 
-3. C/C++
+3. Java/Spring
 
-4. GNU/Linux
+4. Git
 
-5. Shell
+5. Python
 
-6. Git
+6. Scala
 
 ------
 
 ### Education
 
-**Computer Science and Technology** 2013 ~ 2017
+*Pure and Applied Mathematics* 2012 ~ 
     Zhejiang University
 
 ------
 
 ### Experience
 
-**Android Developer, Zhejiang University QiuShiChao Website** 2013 ~ 2015
-    Designer and developer of QSCMobile V3 (Android).
-
-**Android Developer Intern, Taobao (Alibaba Group)** 2015.7 ~ 2015.9
-    Internal framework for Android apps at mobile infrastructure group.
+*Web Developer* @ *QSC Website of Zhejiang University*  2015 ~ 
+    Front-end and back-end developer of several websites.
 
 ------
 
 ### Projects
 
-**[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
-    A campus app for Zhejiang University conforming to Android Design.
+*[Main site of QSC](https://www.qsc.zju.edu.cn)* (NodeJS/VueJS)
+    The main website of QSC@ZJU, both the frontend and backend.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (1200+ Stars)
-    An open source Material Design app for douban.com.
+*[求是潮主站](https://yff.zjuqsc.com)* (NodeJS/AngularJS/Angular Material)
+    Website for the "Youth Film Festival" hosted by the tide department of QSC.
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (500+ Stars)
-    Material Design ProgressBar with consistent appearance on Android 4.0+.
+*[Math as You Will](https://chrome.google.com/webstore/detail/math-as-you-will/dhclcadjnhmoimnlkbboigmihbebfmdc)* (Chrome/AngularJS/Bootstrap)
+    Render LaTeX formulas on designated pages with MathJax.
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (800+ Stars)
-    Utilize the window background during cold start time to make apps look faster.
+*[Hexium](https://github.com/Axure/Hexium-Swift)* (iOS/Swift)
+    A hexagon puzzle game for iOS.
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
-    Packaging for GoogleChrome/custom-tabs-client with an additional Fragment for easier usage.
-
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (200+ Stars)
-    Yet another Android library for pattern lock.
-
-**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
-    Material Design EditText with a delightful linear ripple in background, compatible with Android 4.0+.
-
-**[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
-    A Preference that shows a dialog with a SeekBar widget.
-
-**[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
-    A minimal interactive shell written in C, with FLEX and LEMON.
-
-**[KiScript](https://github.com/DreaminginCodeZH/kiscript)** (C)
-    Interpreter for a scripting language similar to EcmaScript 5.0 specification, currently recursive descent parsing is implemented.
-
-**[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
-    Emacs-style keyboard macro implementation based on X11, with consideration for combo keys.
-
-**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
-    Yet another collection of wireless and VPN scripts for Zhejiang University.
-
-**[ZJUWLANAutoLogin](https://github.com/DreaminginCodeZH/ZJUWLANAutoLogin)** (JavaScript)
-    Simple Chrome extension for automatic login with captive portal in Zhejiang University.
-
+*[Game of Life Framework](https://github.com/Axure/Hexium-Swift)* (C++/ncurses/MVVM)
+    A (pseudo) GUI framework inside the terminal.
+    
 ------
